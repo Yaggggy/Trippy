@@ -1,0 +1,38 @@
+.home-page {
+  font-family: Arial, sans-serif;
+}
+
+.hero-section {
+  background-color: #3498db;
+  color: white;
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.cta-button {
+  background-color: #2980b9;
+  padding: 0.75rem 1.5rem;
+  color: #fff;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 1rem;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #1d6fa5;
+}
+
+.testimonials-section {
+  background-color: #f7f9fa;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.testimonials {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,17 @@
+.footer {
+  background-color: #2c3e50;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+.social-media a {
+  color: #ecf0f1;
+  margin: 0 0.5rem;
+  text-decoration: none;
+}
+
+.social-media a:hover {
+  color: #3498db;
+}

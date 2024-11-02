@@ -1,0 +1,11 @@
+.featured-trips {
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.trip-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+}
