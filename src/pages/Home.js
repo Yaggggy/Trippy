@@ -19,9 +19,9 @@ function Home() {
       <section className="testimonials-section">
         <h2>What Our Travelers Say</h2>
         <div className="testimonials">
-          <TestimonialCard name="Yaggy" comment="Amazing experience!" />
-          <TestimonialCard name="Again Yaggy" comment="Best travel platform!" />
-          <TestimonialCard name="Fir se Yaggy" comment="Highly recommended!" />
+          <TestimonialCard name="ABC" comment="Amazing experience!" />
+          <TestimonialCard name="XYZ" comment="Best travel platform!" />
+          <TestimonialCard name="PQS" comment="Highly recommended!" />
         </div>
       </section>
     </div>
